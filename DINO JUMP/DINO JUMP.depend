@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1618454050 source:d:\sdl game ltnc\dino jump\button.cpp
+	"Button.h"
+
+1617852564 d:\sdl game ltnc\dino jump\button.h
+	"game_Base.h"
+	"LTexture.h"
+
+1619620931 d:\sdl game ltnc\dino jump\game_base.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<ctime>
+
+1617883659 d:\sdl game ltnc\dino jump\ltexture.h
+	"game_Base.h"
+
+1619620614 source:d:\sdl game ltnc\dino jump\character.cpp
+	"Character.h"
+
+1617863608 d:\sdl game ltnc\dino jump\character.h
+	"LTexture.h"
+
+1619603633 source:d:\sdl game ltnc\dino jump\enemy.cpp
+	"Enemy.h"
+
+1617883912 d:\sdl game ltnc\dino jump\enemy.h
+	"LTexture.h"
+
+1617884178 source:d:\sdl game ltnc\dino jump\game_base.cpp
+	"game_Base.h"
+
+1619600867 source:d:\sdl game ltnc\dino jump\game_utils.cpp
+	"game_Utils.h"
+
+1619599901 d:\sdl game ltnc\dino jump\game_utils.h
+	"game_Base.h"
+	"Button.h"
+	"Enemy.h"
+	"Character.h"
+
+1617883659 source:d:\sdl game ltnc\dino jump\ltexture.cpp
+	"LTexture.h"
+
+1619620931 source:d:\sdl game ltnc\dino jump\main.cpp
+	"game_Base.h"
+	"game_Utils.h"
+	"LTexture.h"
+	"Button.h"
+	"Character.h"
+	"Enemy.h"
+
