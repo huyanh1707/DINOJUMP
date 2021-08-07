@@ -32,6 +32,5 @@ Mã nguồn được viết bằng ngôn ngữ C++ đồ họa SDL 2.0.
       - Độ khó game tăng theo thời gian chơi
       - Lưu được thành tích kể cả khi đã thoát game
 
-Link tham khảo: https://www.youtube.com/watch?v=JI5SYZMnfmE
 * Demo:
 https://drive.google.com/file/d/1X_Q5baqibKyFYIGpezjzHe5T3erwpLBW/view?usp=sharing
