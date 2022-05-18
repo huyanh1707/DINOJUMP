@@ -31,6 +31,3 @@ Mã nguồn được viết bằng ngôn ngữ C++ đồ họa SDL 2.0.
       - Điều chỉnh được độ cao khi nhảy
       - Độ khó game tăng theo thời gian chơi
       - Lưu được thành tích kể cả khi đã thoát game
-
-* Demo:
-https://drive.google.com/file/d/1X_Q5baqibKyFYIGpezjzHe5T3erwpLBW/view?usp=sharing
